@@ -1639,3 +1639,63 @@ icon-style
     text-align: center;
     top: 65%;
     }
+
+/* ---------------------------------------------- /*
+ * Pricing
+/* ---------------------------------------------- */
+
+.pricing-box {
+    padding: 2.5rem;
+    text-align: center;
+    height: 288px;
+}
+
+.dollar-sign-main {
+    vertical-align: top;
+    font-size: 3rem;
+}
+
+.price-main {
+    font-size: 5rem;
+}
+
+.price-secondary {
+    font-size: 2.5rem;
+}
+
+.monthly-info {
+    padding: .25rem;
+    margin: .5rem;
+    background-color: #f0f1f2;
+}
+
+.plan-name {
+    font-size: 5.5rem;
+    padding: 20px;
+    line-height: 1.2em;
+    font-weight: 2;
+    color: #303841;
+    text-align: center;
+}
+
+.plan-name.bare-bones {
+    background-color: bisque;
+}
+
+.plan-name.basic {
+    background-color: lightskyblue;
+}
+
+.plan-name.premium {
+    background-color: #adff2f75;
+}
+
+.plan-name.custom {
+    background-color: #ff2f2f5e;
+}
+
+.col-sm-4.custom {
+    float: initial;
+    text-align: center;
+    margin: auto;
+}
